@@ -10,7 +10,7 @@ Use Power Query to transform the data so that it fits the needed analysis format
 4. Data analysis:
 Key HR metrics and Key Performance Indicators (KPIs) include employee turnover rate, average time to hire, employee engagement scores, training efficacy, and so on.
 5. Data Visualization
-Dashboards and Reports, Create interactive dashboards and reports to visualize HR data. Common visualizations include:
+Dashboards and Reports, Create interactive dashboards and reports to visualize HR data. Common visualizations includes
 5.1 Pie Chart:
 A pie chart is a circular statistical graphic divided into slices to illustrate numerical proportions. In Power BI, pie charts are used to show the percentage distribution of a single data series.
 5.2 Donut Chart
